@@ -1,2 +1,3 @@
 Hi 
 This is simple text file
+addedd some text
